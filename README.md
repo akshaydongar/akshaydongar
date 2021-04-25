@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshaydongar
 - 👀 I’m interested in QA/Automation/Devops-Cloud Technologies
-- 🌱 I’m currently learning Devops latest technologies
+- 🌱 I’m currently learning Devops Tools & Latest technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
